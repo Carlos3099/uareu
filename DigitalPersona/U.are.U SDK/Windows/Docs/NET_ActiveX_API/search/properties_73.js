@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['scaleunits',['ScaleUnits',['../class_d_p_uru_net_1_1_fid.html#a91b4a634cf078ea694c9c996887d9353',1,'DPUruNet.Fid.ScaleUnits()'],['../class_d_p_x_uru_1_1_x_fid.html#a91b4a634cf078ea694c9c996887d9353',1,'DPXUru.XFid.ScaleUnits()']]],
+  ['scanresolution',['ScanResolution',['../class_d_p_uru_net_1_1_fid.html#a172ef3e3572a0adaf59f0cfeb97e31f2',1,'DPUruNet.Fid.ScanResolution()'],['../class_d_p_x_uru_1_1_x_fid.html#a172ef3e3572a0adaf59f0cfeb97e31f2',1,'DPXUru.XFid.ScanResolution()']]],
+  ['score',['Score',['../class_d_p_uru_net_1_1_compare_result.html#af8accc54acdf1feb2376dd92f1c4f559',1,'DPUruNet.CompareResult.Score()'],['../class_d_p_uru_net_1_1_capture_result.html#af8accc54acdf1feb2376dd92f1c4f559',1,'DPUruNet.CaptureResult.Score()'],['../class_d_p_x_uru_1_1_x_compare_result.html#aaa32519f9a917d9155c0ce3b898c2675',1,'DPXUru.XCompareResult.Score()'],['../class_d_p_x_uru_1_1_x_capture_result.html#aaa32519f9a917d9155c0ce3b898c2675',1,'DPXUru.XCaptureResult.Score()']]],
+  ['serialnumber',['SerialNumber',['../class_d_p_uru_net_1_1_reader_1_1_reader_description.html#abf3fb18efc323201b7cbc3617cbb4703',1,'DPUruNet.Reader.ReaderDescription.SerialNumber()'],['../class_d_p_x_uru_1_1_x_reader.html#abf3fb18efc323201b7cbc3617cbb4703',1,'DPXUru.XReader.SerialNumber()']]],
+  ['status',['Status',['../class_d_p_uru_net_1_1_reader_1_1_reader_status.html#a7011a9975689e530f8b0a592300de634',1,'DPUruNet.Reader.ReaderStatus.Status()'],['../class_d_p_uru_net_1_1_reader.html#a2336a1c410d5a55d758d10e2479fc15e',1,'DPUruNet.Reader.Status()'],['../class_d_p_x_uru_1_1_x_reader.html#afdaa27edb811d806bc72f1d53c7334cc',1,'DPXUru.XReader.Status()']]]
+];

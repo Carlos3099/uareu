@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['serializexml',['SerializeXml',['../class_d_p_uru_net_1_1_fingerbase.html#a3053f6e0cc5547b32e3d94cc12c1f1a3',1,'DPUruNet.Fingerbase.SerializeXml()'],['../class_d_p_uru_net_1_1_fmd.html#a1a4675c8d9b7248bde4a37cac15b9b05',1,'DPUruNet.Fmd.SerializeXml()'],['../class_d_p_uru_net_1_1_fid.html#aaee7059ef5ab07b2b61499e52e708d7b',1,'DPUruNet.Fid.SerializeXml()'],['../class_d_p_x_uru_1_1_x_fmd.html#a77c364dcebf7e43ac53610b5c25b398c',1,'DPXUru.XFmd.SerializeXml()'],['../class_d_p_x_uru_1_1_x_fid.html#a77c364dcebf7e43ac53610b5c25b398c',1,'DPXUru.XFid.SerializeXml()']]],
+  ['setcapturepriority',['SetCapturePriority',['../class_d_p_ctl_x_uru_1_1_enrollment_x_control.html#a848742b5a1a129a1f274933402d4dabd',1,'DPCtlXUru.EnrollmentXControl.SetCapturePriority()'],['../class_d_p_ctl_x_uru_1_1_identification_x_control.html#a848742b5a1a129a1f274933402d4dabd',1,'DPCtlXUru.IdentificationXControl.SetCapturePriority()']]],
+  ['setformatenrollmentfmd',['SetFormatEnrollmentFmd',['../class_d_p_ctl_x_uru_1_1_enrollment_x_control.html#ad60f0575b76e8ce78854c08e681279a5',1,'DPCtlXUru::EnrollmentXControl']]],
+  ['setreader',['SetReader',['../class_d_p_ctl_x_uru_1_1_enrollment_x_control.html#a970004bd3bdbd1fef1ca62529efe1a0f',1,'DPCtlXUru.EnrollmentXControl.SetReader()'],['../class_d_p_ctl_x_uru_1_1_identification_x_control.html#a970004bd3bdbd1fef1ca62529efe1a0f',1,'DPCtlXUru.IdentificationXControl.SetReader()']]],
+  ['startenrollment',['StartEnrollment',['../class_d_p_ctl_uru_net_1_1_enrollment_control.html#af35bb81d912f8f28279e4c2948428b95',1,'DPCtlUruNet::EnrollmentControl']]],
+  ['startenrollmenthandler',['StartEnrollmentHandler',['../namespace_d_p_ctl_x_uru.html#aa41cda9f7cfe0cc52ccb73e1f17a59ad',1,'DPCtlXUru']]],
+  ['startidentification',['StartIdentification',['../class_d_p_ctl_uru_net_1_1_identification_control.html#ae0ca2e25e98d87e8a44a86b53726ac4b',1,'DPCtlUruNet::IdentificationControl']]],
+  ['startstreaming',['StartStreaming',['../class_d_p_uru_net_1_1_reader.html#a8969fe616ee9c1ac3113ffcadffa8da1',1,'DPUruNet.Reader.StartStreaming()'],['../class_d_p_x_uru_1_1_x_reader.html#ab4811ab9c8f3d8ed692b53023f138c93',1,'DPXUru.XReader.StartStreaming()']]],
+  ['stopidentification',['StopIdentification',['../class_d_p_ctl_uru_net_1_1_identification_control.html#a5b02e389d1f0cd8c28f7d1cb7495ab51',1,'DPCtlUruNet::IdentificationControl']]],
+  ['stopstreaming',['StopStreaming',['../class_d_p_uru_net_1_1_reader.html#aab1ee94f63b91dd95672255b8f6275dd',1,'DPUruNet.Reader.StopStreaming()'],['../class_d_p_x_uru_1_1_x_reader.html#a4557064e16e5597964393a1a1b66c0b6',1,'DPXUru.XReader.StopStreaming()']]]
+];

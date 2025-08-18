@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\DigitalPersona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Verification.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:57:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Verification.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Verification.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:56:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Capabilities.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:56:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capabilities.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capabilities.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:56:48.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Capture.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:56:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Capture.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Capture.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:56:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_Main.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.Designer.vb",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:13:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.Designer.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:12:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:06:34.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UareUSampleVBNET.vbproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\UareUSampleVBNET.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-08-13T03:57:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_Main.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T04:43:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_Main.resx",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Form_Main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-13T04:05:14.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnrollmentControl.Designer.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T03:57:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnrollmentControl.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\EnrollmentControl.vb",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T03:43:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentificationControl.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\IdentificationControl.vb",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T03:26:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollment.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.vb",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T03:21:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enrollment.resx",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Enrollment.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-13T03:57:27.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Identification.vb",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET_Laravel\\Identification.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAApwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T03:24:47.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UareUSampleVBNET.vbproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj",
+              "RelativeDocumentMoniker": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj",
+              "ToolTip": "C:\\xampp\\htdocs\\DigitalPersona\\U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj",
+              "RelativeToolTip": "U.are.U SDK\\Windows\\Samples\\UareUSampleVBNET\\UareUSampleVBNET.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-08-12T00:43:21.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

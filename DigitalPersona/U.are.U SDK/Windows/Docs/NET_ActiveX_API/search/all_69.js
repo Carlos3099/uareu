@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['id',['Id',['../class_d_p_uru_net_1_1_reader_1_1_reader_description.html#a62cd5bdb0c557e7b48022a9653e57c3a',1,'DPUruNet::Reader::ReaderDescription']]],
+  ['identificationcontrol',['IdentificationControl',['../class_d_p_ctl_uru_net_1_1_identification_control.html',1,'DPCtlUruNet']]],
+  ['identificationcontrol',['IdentificationControl',['../class_d_p_ctl_uru_net_1_1_identification_control.html#aca7c1f246f16e7bbb16ae09e681ee727',1,'DPCtlUruNet::IdentificationControl']]],
+  ['identificationxcontrol',['IdentificationXControl',['../class_d_p_ctl_x_uru_1_1_identification_x_control.html',1,'DPCtlXUru']]],
+  ['identificationxcontrol',['IdentificationXControl',['../class_d_p_ctl_x_uru_1_1_identification_x_control.html#a353d5ff09a77bff3b21e0ab6a26d8e03',1,'DPCtlXUru::IdentificationXControl']]],
+  ['identify',['Identify',['../class_d_p_uru_net_1_1_comparison.html#a90d04effe8455ab0d6deae375aa40b39',1,'DPUruNet.Comparison.Identify()'],['../class_d_p_x_uru_1_1_x_comparison.html#a26e3aa09742c2dea4d3587a9a081288b',1,'DPXUru.XComparison.Identify()']]],
+  ['identifyresult',['IdentifyResult',['../class_d_p_uru_net_1_1_identify_result.html#ad7f0595b5d651c9a241ad352b2a829f1',1,'DPUruNet::IdentifyResult']]],
+  ['identifyresult',['IdentifyResult',['../class_d_p_uru_net_1_1_identify_result.html',1,'DPUruNet']]],
+  ['imageresolution',['ImageResolution',['../class_d_p_uru_net_1_1_fid.html#a85f3ebb3c22f50d630617150ea4a5f45',1,'DPUruNet.Fid.ImageResolution()'],['../class_d_p_x_uru_1_1_x_fid.html#a85f3ebb3c22f50d630617150ea4a5f45',1,'DPXUru.XFid.ImageResolution()']]],
+  ['importdpfid',['ImportDpFid',['../class_d_p_uru_net_1_1_importer.html#ac9e7327d0617309cbbf3249eb30ed98a',1,'DPUruNet.Importer.ImportDpFid()'],['../class_d_p_x_uru_1_1_x_importer.html#ae23000ea162e1f601550c60b5602976b',1,'DPXUru.XImporter.ImportDpFid()']]],
+  ['importer',['Importer',['../class_d_p_uru_net_1_1_importer.html',1,'DPUruNet']]],
+  ['importfid',['ImportFid',['../class_d_p_uru_net_1_1_importer.html#a5d442b9472483b51dd8808d54dca041d',1,'DPUruNet.Importer.ImportFid()'],['../class_d_p_x_uru_1_1_x_importer.html#af5fceb56ee85efd629cda594c5b096f0',1,'DPXUru.XImporter.ImportFid()']]],
+  ['importfmd',['ImportFmd',['../class_d_p_uru_net_1_1_importer.html#add25ddc3134585254ad33a24fe369de9',1,'DPUruNet.Importer.ImportFmd()'],['../class_d_p_x_uru_1_1_x_importer.html#a55d24bc4ccc2fe14e4e429282557ddb1',1,'DPXUru.XImporter.ImportFmd()']]],
+  ['impressiontype',['ImpressionType',['../class_d_p_uru_net_1_1_constants.html#ad118b75e587781ecc9a57dafcdbd38a5',1,'DPUruNet.Constants.ImpressionType()'],['../class_d_p_uru_net_1_1_fid_1_1_fiv.html#a033e8e0e0937be547b30bc59890d9293',1,'DPUruNet.Fid.Fiv.ImpressionType()'],['../class_d_p_x_uru_1_1_x_fid_1_1_x_fiv.html#a845c7b029e3f1d342f453ec62ce5ca23',1,'DPXUru.XFid.XFiv.ImpressionType()']]],
+  ['indexes',['Indexes',['../class_d_p_uru_net_1_1_identify_result.html#a670d761dbd7a1566a2c07b94c74c02d9',1,'DPUruNet.IdentifyResult.Indexes()'],['../class_d_p_x_uru_1_1_x_identify_result.html#a5306d588dd7c5547635c5928249612a2',1,'DPXUru.XIdentifyResult.Indexes()']]],
+  ['indicatortype',['IndicatorType',['../class_d_p_uru_net_1_1_reader_1_1_reader_capabilities.html#addefceed2a4fd6a76f167e7a6bdc4626',1,'DPUruNet.Reader.ReaderCapabilities.IndicatorType()'],['../class_d_p_x_uru_1_1_x_reader.html#addefceed2a4fd6a76f167e7a6bdc4626',1,'DPXUru.XReader.IndicatorType()']]],
+  ['isvalid',['IsValid',['../class_d_p_uru_net_1_1_fingerbase.html#aaa65fb3c76f0272142f09f7b17249025',1,'DPUruNet::Fingerbase']]]
+];
